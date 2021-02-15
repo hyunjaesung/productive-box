@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ screts.GH_TOKEN }}
           GIST_ID: ${{ screts.GIST_ID }}
-          TIMEZONE: Asia/Korea
+          TIMEZONE: Asia/Seoul
